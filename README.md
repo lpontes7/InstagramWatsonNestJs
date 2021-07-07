@@ -41,7 +41,7 @@ http://localhost:3000/api
 ```
 
 ### Importante 
-#visual-recognition-deprecation
+#visual-recognition-deprecation.
 Sendo assim, buscar uma nova API do WATSON pra o projeto.
 
 
